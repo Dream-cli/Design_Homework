@@ -7,3 +7,7 @@ week4 -- 社交网络分析
 week5 -- 文本处理的`Tokenizer`类  
 week6 -- 图片处理类  
 week7 -- 
+week8 -- 
+week9 -- 
+week10 -- 
+week11 -- 
